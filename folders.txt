@@ -1,0 +1,4 @@
+analytics_dashboard/
+├── requirements.txt
+├── generate_data.py
+├── app.py
